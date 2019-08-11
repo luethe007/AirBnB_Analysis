@@ -12,7 +12,7 @@
 The following packages need to be installed:
 - spacy
 - gensim
-- pyLDAvis 
+- pyLDAvis
 
 The code should run with no issues using Python versions 3.*.
 
@@ -35,7 +35,7 @@ files stored to load in the pre-trained model.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@marvinlt75/insightful-analysis-of-munich-airbnb-data-20c2ce898d4d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
