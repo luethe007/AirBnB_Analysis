@@ -12,7 +12,7 @@
 The following packages need to be installed:
 - spacy
 - gensim
-- pyLDAvis
+- pyLDAvis.
 
 The code should run with no issues using Python versions 3.*.
 
@@ -29,8 +29,7 @@ For this project, I was interested in using Munich AirBnB data to better underst
 
 The file *airbnb_analysis.ipynb* contains the code for the whole project.
 *lda.html* is the interactive LDA visualization. The heatmap for Munich can be
-found in *my_gm_plot.html*. The remaining files are the source datasets and LDA gensim
-files stored to load in the pre-trained model.
+found in *my_gm_plot.html*. The remaining files are the source datasets (zipped folder) and LDA gensim files stored to load in the pre-trained model.
 
 
 ## Results<a name="results"></a>
