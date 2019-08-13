@@ -38,4 +38,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBnB for the data. Feel free to use the code here as you would like!
+Must give credit to AirBnB for the data. Feel free to use the code here as you would like.
