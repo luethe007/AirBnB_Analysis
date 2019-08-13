@@ -10,9 +10,9 @@
 ## Installation <a name="installation"></a>
 
 The following packages need to be installed:
-- spacy
-- gensim
-- pyLDAvis.
+- [spaCy](http://spacy.io/)
+- [gensim](http://radimrehurek.com/gensim/)
+- [pyLDAvis](http://github.com/bmabey/pyLDAvis).
 
 The code should run with no issues using Python versions 3.*.
 
