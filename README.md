@@ -34,7 +34,7 @@ found in *my_gm_plot.html*. The remaining files are the source datasets (zipped 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@marvinlt75/insightful-analysis-of-munich-airbnb-data-20c2ce898d4d).
+The main findings of the code can be found at my Medium post available [here](https://medium.com/@marvinlt75/insightful-analysis-of-munich-airbnb-data-20c2ce898d4d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
